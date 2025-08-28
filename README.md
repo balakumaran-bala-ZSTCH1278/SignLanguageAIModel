@@ -47,5 +47,3 @@ Real-time Android Application: Develop a full-fledged Android application demons
 Quantization: Further optimize the TFLite model using quantization for smaller size and faster inference.
 Feedback Mechanisms: Implement features for users to provide feedback on recognition accuracy to improve the system over time.
 
-This document summarizes the development of the core SignSense recognition engine. The process has focused on building a robust keypoint extraction and inference pipeline suitable for real-time application on mobile devices.
-
