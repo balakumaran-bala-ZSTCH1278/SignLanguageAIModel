@@ -1,13 +1,7 @@
-# Technical Documentation
+This is the google colab's note that I use. Covers all the technical doc and code.
+https://colab.research.google.com/drive/1MxbXkIr-vgmFW5zqTddTi-Us9knfWjti?usp=sharing
 
-Feel free to add any number of markdown files in this folder that can help us better understand your solution.
-You can include the following (not an exhaustive list, feel free to add more):
-- Your approach to solve this problem and what makes it unique
-- Technical Stack - List of OSS libraries/projects used along with their links
-- The technical architecture of your solution
-- Implementation details
-- Installation instructions
-- User guide
-- Salient features of the project
 
-Note: Kindly add screenshots wherever possible.
+This is the product documentation.
+https://docs.google.com/document/d/1DRQ5GBBdN3XYvajgFQKCBguhfXOlakxv6FkQ-QtdQ7k/edit?usp=sharing
+
